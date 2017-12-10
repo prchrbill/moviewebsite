@@ -8,7 +8,7 @@ To run the program open the the file 'entertainment_center.py'.
 Entertainment Center uses the fresh_tomatoes python file to build an html movie trailer website.
 
 # You can change it
-Edit the entertainment file with your favorite movies and make it your own
+Edit the entertainment_center.py file with your favorite movies and make it your own.
 
 # Acknowledgements
 I added background pictures to be used by fresh_tomatoes.py on lines 19 and 41.
