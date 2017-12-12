@@ -2,7 +2,11 @@
 Moviewebsite for Udacity Project
 
 # Running the Program
-To run the program open the the file 'entertainment_center.py'.
+1. Download all the files to your computer.
+2. Navigate in the CMD Shell to your python file location
+    * Try this tutorial https://www.wikihow.com/Change-Directories-in-Command-Prompt
+3. Then type "python entertainment_center.py"
+    * If you do not have python installed on  your Windows computer, go here https://www.howtogeek.com/197947/how-to-install-python-on-windows/
 
 # What happens?
 Entertainment Center uses the fresh_tomatoes python file to build an html movie trailer website.
